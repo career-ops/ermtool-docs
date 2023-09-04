@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkermtool_docs=self.webpackChunkermtool_docs||[]).push([[526],{9748:o=>{o.exports=JSON.parse('{"permalink":"/ermtool-docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

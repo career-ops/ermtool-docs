@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkermtool_docs=self.webpackChunkermtool_docs||[]).push([[8635],{3762:o=>{o.exports=JSON.parse('{"permalink":"/ermtool-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

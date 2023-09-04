@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkermtool_docs=self.webpackChunkermtool_docs||[]).push([[2962],{9392:o=>{o.exports=JSON.parse('{"label":"docusaurus","permalink":"/ermtool-docs/blog/tags/docusaurus","allTagsPath":"/ermtool-docs/blog/tags","count":4}')}}]);
