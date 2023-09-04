@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   organizationName: 'career-ops',
   projectName: 'ermtool-docs',
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
